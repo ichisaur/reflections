@@ -1,0 +1,4 @@
+Initializing a repository creates  new git repository that I can use to make git files. It basically turns any folder into a nice little git repository. Also: Holy shit is sublime text good
+When we initialize a repository basically a bunch of happiness gets brought into the world
+
+THe staging area is where we set files to e added, the working directory is where we are currently working and the repository is where the git thingy is. 
