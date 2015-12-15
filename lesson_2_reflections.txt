@@ -8,3 +8,5 @@ you can use the staging area to only add in the files that need to be commited f
 Branches can help us keep our histories organized by allowing us to experiment on different parts of code without completely mucking up the rest of our code. 
 
 Diagrams help us visualize branch structure because it is a flipping branch structure. 
+
+The result of merging branches together is that it merges all the code to the branches into one file. 
