@@ -1,0 +1,20 @@
+a diff between two versions of a file lets me see what errors and changes
+occured between those two versions of the file.
+
+having access to the entire working history of the file lets you see what changes were 
+being made to fix the problems and the course it has had on the function of the
+document in general. 
+
+The changes you make are more logical when you save the commits yourself. When
+google docs saves the new versions, many times lines are cut off or the version
+doesn't actually fix anything.
+
+Git allows saving multiple files in one commit because a lot of the time those 
+files are interconnected while other systems like gdocs arent interconnected.
+
+git log shows a log of all the changes and git diff shows all the actual cahnges
+
+Version control lets me break anything I want cause if I do, I just go back and
+find the version that broke it and fix it.
+
+android projects!
