@@ -6,3 +6,5 @@ THe staging area is where we set files to e added, the working directory is wher
 you can use the staging area to only add in the files that need to be commited for one commit even though you may have made many changes before commiting the new changes
 
 Branches can help us keep our histories organized by allowing us to experiment on different parts of code without completely mucking up the rest of our code. 
+
+Diagrams help us visualize branch structure because it is a flipping branch structure. 
