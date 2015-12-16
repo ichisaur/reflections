@@ -1,1 +1,3 @@
 In case a computer goes kablooey all my stuff is still here
+
+By pulling changes manually, you avoid most of the issues present in commiting automatically as well. Sometimes you dont want to pull the new changes. 
