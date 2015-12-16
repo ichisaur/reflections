@@ -10,3 +10,5 @@ Branches can help us keep our histories organized by allowing us to experiment o
 Diagrams help us visualize branch structure because it is a flipping branch structure. 
 
 The result of merging branches together is that it merges all the code to the branches into one file. 
+
+Automatic merging is faster, but manual merging is a lot more accurate
